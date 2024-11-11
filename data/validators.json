@@ -428,7 +428,7 @@
     "name": "Grand Valley",
     "webservices": "",
     "x": "bacvalley",
-    "validatorlogo": "bacvalley.jpg",
+    "validatorlogo": "grandvalley.png",
    "api": "https://lightnode-api-story.grandvalleys.com",
     "rpc": "https://lightnode-rpc-story.grandvalleys.com",
     "evm-rpc": "https://lightnode-json-rpc-story.grandvalleys.com",
